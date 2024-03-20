@@ -1,0 +1,23 @@
+[ColorEffects:Inactive]
+ChangeSelectionColor=false
+
+[Colors:Button]
+BackgroundNormal=46, 52, 64
+ForegroundNormal=236, 239, 244
+
+[Colors:Selection]
+BackgroundNormal=46, 52, 64
+ForegroundNormal=236, 239, 244
+
+[Colors:View]
+BackgroundAlternate=46, 52, 64
+BackgroundNormal=46, 52, 64
+ForegroundLink=136, 192, 208
+ForegroundNormal=236, 239, 244
+
+[Colors:Window]
+BackgroundNormal=46, 52, 64
+ForegroundNormal=236, 239, 244
+
+[General]
+Name=Nord
